@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            border: 2px solid #000;
+            padding: 20px;
+            width: 350px;
+            background: #f5f5f5;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+        input {
+            width: 100%;
+            padding: 7px;
+            margin-top: 5px;
+        }
